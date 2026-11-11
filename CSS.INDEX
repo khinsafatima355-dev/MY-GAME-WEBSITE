@@ -1,0 +1,26 @@
+
+body {
+    background: linear-gradient(purple, blue);
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: yellow;
+    font-size: 40px;
+}
+
+h2 {
+    color: cyan;
+}
+
+button {
+    background: hotpink;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
